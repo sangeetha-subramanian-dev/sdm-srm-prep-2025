@@ -3,6 +3,15 @@ This repository includes resources which I gathered in the process of my intervi
 
 Since we're targeting SDM (Software Development Manager) or EM (Engineering Manager) roles, the preparation needs to span multiple dimensions. I have tried a very practical prep guide. This will cover what most top companies (FAANG, startups, product companies, SaaS, fintech, etc.) evaluate for EM/SDM/SRM roles:
 
+# Table of Contents
+
+- [Leadership & Behavioral Interviews](#leadership--behavioral-interviews)
+- [System Design](#system-design)
+- [Technical Depth](#technical-depth)
+- [Org/Team Building & Leadership](#orgteam-building--leadership)
+- [Is this same across all companies?](#is-this-same-across-all-companies)
+- [Interview Tiers](#interview-tiers)
+
 ## Leadership & Behavioral Interviews (50-60%)**
 This is often the make-or-break part.
 
@@ -70,6 +79,7 @@ Short answer is,
 ✅ 80% prep is common (system design + behavioral + leadership stories).
 ✅ 20% needs to be tuned depending on where you're interviewing (based on tier, company, role level (SDM1 vs SDM2 vs EM Director, etc.)
 
+## Interview Tiers
 Let me break it down for you across tiers 
 
 | Tier                                                          | Companies                                                                    | What's Same                                                                                                                                      | What's Different                                                                                                                                               |

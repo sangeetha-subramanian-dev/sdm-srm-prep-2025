@@ -9,6 +9,7 @@
 # 📚 Resources List
 
 ✅ **Python DSA:**
+- [Jose Portilla Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/)
 - [Jose Portilla – Python for Data Structures and Algorithms (Udemy)](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/)
 - [Elshad Karimov – DSA and Algorithms Bootcamp (Udemy)](https://www.udemy.com/course/data-structures-and-algorithms-bootcamp/)
 
