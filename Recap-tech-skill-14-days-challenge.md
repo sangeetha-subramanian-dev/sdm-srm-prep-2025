@@ -2,6 +2,9 @@
 # 📅 2-Week SDM/SRM Prep Plan (Python DSA, AWS, Terraform, SRE, Behavioral)
 
 This is my structured plan for 2 weeks to prepare for Engineering Manager / Software Development Manager / SRE Manager roles, combining technical depth, cloud, and leadership prep.
+
+> 🎯 Goal: Build strong foundation for SRM interviews - Python DSA, AWS, Terraform, SRE, LeetCode, Behavioral.
+
 ---
 
 ## 🕰️ Summary Daily Allocation
@@ -14,12 +17,20 @@ This is my structured plan for 2 weeks to prepare for Engineering Manager / Soft
 | **SRE (Coursera Google SRE)** | 1 hr | 1 module per day or part depending on size |
 | **Behavioral (STAR Story Writing)** | 1 hr | Daily story writing/review |
 
-**Total: ~7 hours per day**
+---
+
+## 🔗 Resources
+
+- **Python Basics**: [Jose Portilla - Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
+- **Python DSA**: [Jose Portilla - Python for Data Structures, Algorithms and Interviews](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/) or [Elshad - The Complete Data Structures and Algorithms Course in Python
+](https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python)
+- **AWS**: [Stephane Maarek - AWS Certified Solutions Architect Associate](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
+- **Terraform**: [Zeal Vora - HashiCorp Certified Terraform Associate](https://www.udemy.com/course/terraform-associate-hashicorp-certified/)
+- **SRE Book**: [Google SRE Book](https://sre.google/sre-book/table-of-contents/)
+- **LeetCode Practice**: [LeetCode](https://leetcode.com/)
 
 ---
-# 📅 2-Week June SRM Prep Plan
-
-> 🎯 Goal: Build strong foundation for SRM interviews - Python DSA, AWS, Terraform, SRE, LeetCode, Behavioral.
+**Total: ~7 hours per day**
 
 ---
 
@@ -44,33 +55,7 @@ This is my structured plan for 2 weeks to prepare for Engineering Manager / Soft
 
 ---
 
-## 📝 Summary Daily Allocation
-
-| Course | Hours per Day | Notes |
-|--------|----------------|-------|
-| **Python DSA (Elshad Udemy)** | 1 – 1.5 hrs | Watch video, take notes, small coding |
-| **LeetCode Practice (NeetCode)** | 1.5 hrs | 5-10 problems depending on topic |
-| **AWS + Terraform (Udemy + Docs + Hands-on)** | 2 hrs | 1 hr theory + 1 hr hands-on coding |
-| **SRE (Coursera Google SRE)** | 1 hr | 1 module per day or part depending on size |
-| **Behavioral (STAR Story Writing)** | 1 hr | Daily story writing/review |
-| **Total** | **~7 hours/day** |
-
----
-
 🎯 This plan will keep you extremely focused, balanced, and interview-ready.
-
-
-
----
-
-## 🔗 Resources
-
-- **Python Basics**: [Jose Portilla - Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
-- **Python DSA**: [Jose Portilla - Python for Data Structures, Algorithms and Interviews](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/)
-- **AWS**: [Stephane Maarek - AWS Certified Solutions Architect Associate](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
-- **Terraform**: [Zeal Vora - HashiCorp Certified Terraform Associate](https://www.udemy.com/course/terraform-associate-hashicorp-certified/)
-- **SRE Book**: [Google SRE Book](https://sre.google/sre-book/table-of-contents/)
-- **LeetCode Practice**: [LeetCode](https://leetcode.com/)
 
 ---
 
