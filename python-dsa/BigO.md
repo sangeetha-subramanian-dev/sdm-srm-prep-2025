@@ -13,6 +13,10 @@
 
 ---
 
+## Complexities Graph
+
+![Big O Notation Chart](BigOChart.png)
+
 ## 🚀 Common Time Complexities
 
 | Big O        | Name              | Examples                              | Description                                  |
@@ -59,3 +63,4 @@ def print_pairs(arr):
     for i in arr:
         for j in arr:
             print(i, j)
+

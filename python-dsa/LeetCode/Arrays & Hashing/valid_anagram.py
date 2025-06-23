@@ -29,7 +29,7 @@ class Solution:
         return Counter(s) == Counter(t)
     
 ## Solution 2 - Using Hash
-## Time Complexity = O(n^2), Space Complexity = O(n)
+## Time Complexity = O(n^2), Space Complexity = O(n) O(26)
 ## We are going tp use dictionary/Hashmap because we can compare number of times the character has appeared easily with key character
 ## In case of s = "anagram"
 ## counter = {"a": 3, "g": 1, "m": 1, "n": 1, "r": 1}
