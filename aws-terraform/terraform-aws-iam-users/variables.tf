@@ -64,3 +64,21 @@ variable "iam_group_policy_attachments" {
 }
 
 
+variable "ec2_role_name" {
+  type        = string
+  default     = "ec2-service-role"
+}
+
+variable "ec2_instance_profile_name" {
+  type        = string
+  default     = "ec2-instance-profile"
+}
+
+variable "ec2_role_policy_arns" {
+  description = "List of policy ARNs to attach to the EC2 role"
+  type        = list(string)
+  default     = [
+    "arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess",
+    "arn:aws:iam::aws:policy/CloudWatchAgentServerPolicy"
+  ]
+}
